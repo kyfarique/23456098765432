@@ -34,7 +34,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # ============================================================
 # НАСТРОЙКИ ПАРТНЕРСКОГО БОТА (@aipredictor_signals)
 # ============================================================
-PARTNER_BOT_TOKEN = "9059976355:AAH6_pdidfSeGiPMpJK97KSxbPyz0RhfVDg"
+PARTNER_BOT_TOKEN = "9059976355:AAFAsyVX5lQ2TRO4EgSHeS0iQzjFSNj_AAw"
 ADMIN_ID = "6109042131" 
 
 # Твои ссылки на игровые боты
